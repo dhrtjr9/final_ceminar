@@ -1,0 +1,252 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 817-639-963
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 817-639-963
+ERROR:werkzeug:127.0.0.1 - - [30/Jul/2023 13:07:42] code 400, message Bad request version ('f\x86vL©­WhDi\x00\x05\x00\x03\x02h2\x00')
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:07:42] "[35m[1m\x16\x03\x01\x02\x00\x01\x00\x01\xfc\x03\x03C¡×\xc4D\xd3\x80\xc4>¢¯\x16\x83\xd14\xaf\xe9\x0d\x92k\x01\x86C\x9c\xca\x90\xc5\xfc\x9a\xa6\xe2\xc5mM \xd6©­\xd6\xf3Z\x95\xf3\x13e\x0dl\x00\xed`¢Ò\xa3\x92¨ù\x96*#i\x1b#*z\x05@\xa2\x11¡¤\xee\x00 \xfa\xfa\x13\x01\x13\x02\x13\x03\xc0+\xc0/\xc0,\xc00\xcc\xa9\xcc¡§\xc0\x13\xc0\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93\x1a\x1a\x00\x00\x00+\x00\x07\x06\x8a\x8a\x03\x04\x03\x03\xff\x01\x00\x01\x00\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x00#\x00\x00\x00\x17\x00\x00\x00\x0b\x00\x02\x01\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00\x0d\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x003\x00+\x00)¨¬¨¬\x00\x01\x00\x00\x1d\x00 \xfdT\x1a\x1a¢ç>JZ\x80\x07L¢¯5\xf9%^\xe0\xf3\x13\x13\xf9\xd3\x8b\xf5\x0cf\x86vL©­WhDi\x00\x05\x00\x03\x02h2\x00[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:127.0.0.1 - - [30/Jul/2023 13:07:42] code 400, message Bad request version ('JJ\x13\x01\x13\x02\x13\x03\xc0+\xc0/\xc0,\xc00\xcc\xa9\xcc¡§\xc0\x13\xc0\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93\x9a\x9a\x00\x00\x00')
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:07:42] "[35m[1m\x16\x03\x01\x02\x00\x01\x00\x01\xfc\x03\x03W\x9d\xec\xc3\x90\x04vk©ø\x15U\xe7Le\x81¨£©£Q\xa3q\x93[-\xea\xc7\xb5\xd4\x1e\xe5¢Ò\xdd] {f\x98d\x8e6Y\xcb#¡¾\x84^3¨ö@\x9fZ\xe9\x93©÷I¡×}\x13\xcb\xafM(\xa9b\xd10\x00 JJ\x13\x01\x13\x02\x13\x03\xc0+\xc0/\xc0,\xc00\xcc\xa9\xcc¡§\xc0\x13\xc0\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93\x9a\x9a\x00\x00\x00[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:127.0.0.1 - - [30/Jul/2023 13:07:42] code 400, message Bad request version ('S¢¯N\xe8©ø\xce\x97\x1b.\xb5\xc9X%\x97q`D\xf3¢´$¨ªI{\xafb\x8e\xc3I59\xe9\xee\x00')
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:07:42] "[35m[1m\x16\x03\x01\x02\x00\x01\x00\x01\xfc\x03\x03¨ú<\xda9C\x19g\xd1P;JL\xcf\x95\x0b¨ª\x0f^W(¡¤.Nq+\xb5!Q4\x18\x87\x1e S¢¯N\xe8©ø\xce\x97\x1b.\xb5\xc9X%\x97q`D\xf3¢´$¨ªI{\xafb\x8e\xc3I59\xe9\xee\x00 [0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:127.0.0.1 - - [30/Jul/2023 13:07:42] code 400, message Bad request version ('zz\x13\x01\x13\x02\x13\x03\xc0+\xc0/\xc0,\xc00\xcc\xa9\xcc¡§\xc0\x13\xc0\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93')
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:07:42] "[35m[1m\x16\x03\x01\x02\x00\x01\x00\x01\xfc\x03\x03\x80\x86\xebx\x1f¨¬\x05a\x09>¨¡3i\x134|\x1e|\x13\xa3\xa0\xbbu\x0eG\x95$\x8f\xef\xcc;d /O\x8f=w[¡×¨­6"_$\x1a<Y\xe0S\xdd\x83\xe9\xef\x0c\xe8yJ}\xcb\x86¢¬\xc1©­4\x00 zz\x13\x01\x13\x02\x13\x03\xc0+\xc0/\xc0,\xc00\xcc\xa9\xcc¡§\xc0\x13\xc0\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:09:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:09:23] "[33mGET /script.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:09:26] "[36mGET /static/images/img-1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:09:26] "[36mGET /static/images/img-4.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:09:26] "[36mGET /static/images/Baking-bread.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:09:26] "[36mGET /static/images/img-2.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:09:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:09:26] "[36mGET /static/images/img-3.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:09:28] "[35m[1mPOST /cart HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:09:30] "[35m[1mPOST /cart HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:09:34] "[35m[1mPOST /cart HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:09:37] "[35m[1mGET /cart HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:09:40] "[35m[1mGET /cart HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:09:45] "[35m[1mGET /login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:09:45] "GET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:09:45] "GET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:09:45] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:09:45] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:09:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:09:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:09:55] "[33mGET /script.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:09:55] "[36mGET /static/images/Baking-bread.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:09:55] "[36mGET /static/images/img-1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:09:55] "[36mGET /static/images/img-2.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:09:55] "[36mGET /static/images/img-3.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:09:55] "[36mGET /static/images/img-4.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:09:57] "[35m[1mPOST /cart HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:09:59] "[35m[1mGET /login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:09:59] "[36mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:09:59] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:09:59] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\ITSTUDY\\flask_mall\\personal_project-main\\app\\views\\control_views.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 817-639-963
+INFO:app:Àå¹Ù±¸´Ï ÆäÀÌÁö ÁøÀÔ
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:19:10] "POST /cart HTTP/1.1" 200 -
+INFO:app:Àå¹Ù±¸´Ï ÆäÀÌÁö ÁøÀÔ
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:19:18] "POST /cart HTTP/1.1" 200 -
+INFO:app:Àå¹Ù±¸´Ï ÆäÀÌÁö ÁøÀÔ
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:19:25] "POST /cart HTTP/1.1" 200 -
+INFO:app:Àå¹Ù±¸´Ï ÁøÀÔ ÆäÀÌÁö
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:19:27] "GET /cart HTTP/1.1" 200 -
+INFO:app:Àå¹Ù±¸´Ï ÁøÀÔ ÆäÀÌÁö
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:19:27] "GET /cart HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 817-639-963
+INFO:app:Àå¹Ù±¸´Ï ÆäÀÌÁö ÁøÀÔ
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:20:08] "POST /cart HTTP/1.1" 200 -
+INFO:app:Àå¹Ù±¸´Ï ÆäÀÌÁö ÁøÀÔ
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:20:10] "POST /cart HTTP/1.1" 200 -
+INFO:app:Àå¹Ù±¸´Ï ÆäÀÌÁö ÁøÀÔ
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:20:12] "POST /cart HTTP/1.1" 200 -
+INFO:app:·Î±×ÀÎ ÆäÀÌÁö ÁøÀÔ
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:20:15] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:20:16] "[36mGET /static/images/catlogo_1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:20:16] "[36mGET /static/signin.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:20:16] "[36mGET /static/dist/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:app:Àå¹Ù±¸´Ï ÆäÀÌÁö ÁøÀÔ
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:20:27] "POST /cart HTTP/1.1" 200 -
+INFO:app:Àå¹Ù±¸´Ï ÆäÀÌÁö ÁøÀÔ
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:20:32] "POST /cart HTTP/1.1" 200 -
+INFO:app:Àå¹Ù±¸´Ï ÆäÀÌÁö ÁøÀÔ
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:20:34] "POST /cart HTTP/1.1" 200 -
+INFO:app:·Î±×ÀÎ ÆäÀÌÁö ÁøÀÔ
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:20:37] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:20:37] "[36mGET /static/dist/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:20:37] "[36mGET /static/signin.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:20:37] "[36mGET /static/images/catlogo_1.png HTTP/1.1[0m" 304 -
+INFO:app:·Î±×ÀÎ ÆäÀÌÁö ÁøÀÔ
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:20:45] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:20:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:20:45] "[33mGET /script.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:20:45] "[36mGET /static/images/Baking-bread.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:20:45] "[36mGET /static/images/img-2.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:20:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:20:45] "[36mGET /static/images/img-1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:20:45] "[36mGET /static/images/img-3.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:20:45] "[36mGET /static/images/img-4.png HTTP/1.1[0m" 304 -
+INFO:app:Àå¹Ù±¸´Ï ÁøÀÔ ÆäÀÌÁö
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:20:50] "GET /cart HTTP/1.1" 200 -
+INFO:app:Àå¹Ù±¸´Ï ÁøÀÔ ÆäÀÌÁö
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:20:50] "GET /cart HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:22:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:22:25] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:22:25] "[33mGET /script.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:22:25] "[36mGET /static/images/Baking-bread.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:22:25] "[36mGET /static/images/img-1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:22:25] "[36mGET /static/images/img-2.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:22:25] "[36mGET /static/images/img-3.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:22:25] "[36mGET /static/images/img-4.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:22:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:22:28] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:22:28] "[36mGET /static/images/Baking-bread.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:22:28] "[33mGET /script.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:22:28] "[36mGET /static/images/img-1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:22:28] "[36mGET /static/images/img-2.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:22:28] "[36mGET /static/images/img-3.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:22:28] "[36mGET /static/images/img-4.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:22:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:22:33] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:22:33] "[36mGET /static/images/Baking-bread.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:22:33] "[33mGET /script.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:22:33] "[36mGET /static/images/img-1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:22:33] "[36mGET /static/images/img-2.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:22:33] "[36mGET /static/images/img-4.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:22:33] "[36mGET /static/images/img-3.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 817-639-963
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:23:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:23:20] "[33mGET /script.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:23:22] "[36mGET /static/images/img-1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:23:22] "[36mGET /static/images/Baking-bread.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:23:22] "[36mGET /static/images/img-4.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:23:22] "[36mGET /static/images/img-3.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:23:22] "[36mGET /static/images/img-2.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:23:22] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:app:Àå¹Ù±¸´Ï ÆäÀÌÁö ÁøÀÔ
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:23:27] "POST /cart HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 817-639-963
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:24:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:24:03] "[33mGET /script.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:24:05] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:24:05] "[36mGET /static/images/img-1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:24:05] "[36mGET /static/images/img-2.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:24:05] "[36mGET /static/images/img-3.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:24:05] "[36mGET /static/images/img-4.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:24:05] "[36mGET /static/images/Baking-bread.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:24:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:24:12] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:24:12] "[33mGET /script.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:24:12] "[36mGET /static/images/Baking-bread.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:24:12] "[36mGET /static/images/img-1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:24:12] "[36mGET /static/images/img-2.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:24:12] "[36mGET /static/images/img-4.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:24:12] "[36mGET /static/images/img-3.png HTTP/1.1[0m" 304 -
+INFO:app:Àå¹Ù±¸´Ï ÆäÀÌÁö ÁøÀÔ
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:24:27] "POST /cart HTTP/1.1" 200 -
+INFO:app:Àå¹Ù±¸´Ï ÆäÀÌÁö ÁøÀÔ
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:24:31] "POST /cart HTTP/1.1" 200 -
+INFO:app:Àå¹Ù±¸´Ï ÆäÀÌÁö ÁøÀÔ
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:24:50] "POST /cart HTTP/1.1" 200 -
+INFO:app:Àå¹Ù±¸´Ï ÁøÀÔ ÆäÀÌÁö
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:24:55] "GET /cart HTTP/1.1" 200 -
+INFO:app:Àå¹Ù±¸´Ï ÁøÀÔ ÆäÀÌÁö
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:24:55] "GET /cart HTTP/1.1" 200 -
+INFO:app:°áÁ¦ ÆäÀÌÁö ÁøÀÔ Áß
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:25:01] "[35m[1mGET /kakaopay/1 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:25:01] "[36mGET /kakaopay/1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:25:01] "[36mGET /kakaopay/1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:25:01] "[36mGET /kakaopay/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:app:Àå¹Ù±¸´Ï ÆäÀÌÁö ÁøÀÔ
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:25:09] "POST /cart HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:25:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:25:15] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:25:15] "[33mGET /script.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:25:15] "[36mGET /static/images/Baking-bread.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:25:15] "[36mGET /static/images/img-1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:25:15] "[36mGET /static/images/img-2.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:25:15] "[36mGET /static/images/img-4.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 13:25:15] "[36mGET /static/images/img-3.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 817-639-963
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 16:24:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 16:24:15] "[33mGET /script.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 16:24:17] "[36mGET /static/images/img-4.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 16:24:17] "[36mGET /static/images/img-3.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 16:24:17] "[36mGET /static/images/img-2.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 16:24:17] "[36mGET /static/images/img-1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 16:24:17] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 16:24:17] "[36mGET /static/images/Baking-bread.jpg HTTP/1.1[0m" 304 -
+INFO:app:Àå¹Ù±¸´Ï ÆäÀÌÁö ÁøÀÔ
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 16:24:29] "[35m[1mPOST /cart HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\ITSTUDY\\flask_mall\\personal_project-main\\app\\views\\control_views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 817-639-963
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 817-639-963
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 16:26:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 16:26:17] "[33mGET /script.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 16:26:19] "[36mGET /static/images/Baking-bread.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 16:26:19] "[36mGET /static/images/img-3.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 16:26:19] "[36mGET /static/images/img-2.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 16:26:19] "[36mGET /static/images/img-4.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 16:26:19] "[36mGET /static/images/img-1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 16:26:19] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:app:Àå¹Ù±¸´Ï ÆäÀÌÁö ÁøÀÔ
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 16:26:21] "POST /cart HTTP/1.1" 200 -
+INFO:app:Àå¹Ù±¸´Ï ÆäÀÌÁö ÁøÀÔ
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 16:26:23] "POST /cart HTTP/1.1" 200 -
+INFO:app:Àå¹Ù±¸´Ï ÆäÀÌÁö ÁøÀÔ
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 16:26:27] "POST /cart HTTP/1.1" 200 -
+INFO:app:Àå¹Ù±¸´Ï ÁøÀÔ ÆäÀÌÁö
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 16:26:30] "GET /cart HTTP/1.1" 200 -
+INFO:app:Àå¹Ù±¸´Ï ÁøÀÔ ÆäÀÌÁö
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 16:26:30] "GET /cart HTTP/1.1" 200 -
+INFO:app:Àå¹Ù±¸´Ï ÆäÀÌÁö ÁøÀÔ
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 16:26:50] "POST /cart HTTP/1.1" 200 -
+INFO:app:Àå¹Ù±¸´Ï ÆäÀÌÁö ÁøÀÔ
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 16:26:56] "POST /cart HTTP/1.1" 200 -
+INFO:app:Àå¹Ù±¸´Ï ÆäÀÌÁö ÁøÀÔ
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 16:27:01] "POST /cart HTTP/1.1" 200 -
+INFO:app:Àå¹Ù±¸´Ï ÁøÀÔ ÆäÀÌÁö
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 16:27:04] "GET /cart HTTP/1.1" 200 -
+INFO:app:Àå¹Ù±¸´Ï ÁøÀÔ ÆäÀÌÁö
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 16:27:04] "GET /cart HTTP/1.1" 200 -
