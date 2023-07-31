@@ -250,3 +250,120 @@ INFO:app:¿ÂπŸ±∏¥œ ¡¯¿‘ ∆‰¿Ã¡ˆ
 INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 16:27:04] "GET /cart HTTP/1.1" 200 -
 INFO:app:¿ÂπŸ±∏¥œ ¡¯¿‘ ∆‰¿Ã¡ˆ
 INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 16:27:04] "GET /cart HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 09:19:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 09:19:09] "[33mGET /script.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 09:19:09] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 09:19:09] "GET /static/images/Baking-bread.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 09:19:09] "GET /static/images/img-1.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 09:19:09] "GET /static/images/img-2.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 09:19:09] "GET /static/images/img-4.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 09:19:09] "GET /static/images/img-3.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 09:19:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:app:¿ÂπŸ±∏¥œ ∆‰¿Ã¡ˆ ¡¯¿‘
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 09:19:13] "POST /cart HTTP/1.1" 200 -
+INFO:app:¿ÂπŸ±∏¥œ ∆‰¿Ã¡ˆ ¡¯¿‘
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 09:19:16] "POST /cart HTTP/1.1" 200 -
+INFO:app:¿ÂπŸ±∏¥œ ∆‰¿Ã¡ˆ ¡¯¿‘
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 09:19:23] "POST /cart HTTP/1.1" 200 -
+INFO:app:¿ÂπŸ±∏¥œ ¡¯¿‘ ∆‰¿Ã¡ˆ
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 09:19:28] "GET /cart HTTP/1.1" 200 -
+INFO:app:¿ÂπŸ±∏¥œ ¡¯¿‘ ∆‰¿Ã¡ˆ
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 09:19:28] "GET /cart HTTP/1.1" 200 -
+INFO:app:¿ÂπŸ±∏¥œ ∆‰¿Ã¡ˆ ¡¯¿‘
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 09:19:34] "POST /cart HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-106-446
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 09:53:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 09:53:29] "[33mGET /script.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 09:53:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 09:53:29] "[36mGET /static/images/Baking-bread.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 09:53:29] "[36mGET /static/images/img-4.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 09:53:29] "[36mGET /static/images/img-2.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 09:53:29] "[36mGET /static/images/img-3.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 09:53:29] "[36mGET /static/images/img-1.png HTTP/1.1[0m" 304 -
+INFO:app:¿ÂπŸ±∏¥œ ∆‰¿Ã¡ˆ ¡¯¿‘
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 09:53:31] "POST /cart HTTP/1.1" 200 -
+INFO:app:¿ÂπŸ±∏¥œ ∆‰¿Ã¡ˆ ¡¯¿‘
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 09:53:35] "POST /cart HTTP/1.1" 200 -
+INFO:app:¿ÂπŸ±∏¥œ ∆‰¿Ã¡ˆ ¡¯¿‘
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 09:53:41] "POST /cart HTTP/1.1" 200 -
+INFO:app:∑Œ±◊¿Œ ∆‰¿Ã¡ˆ ¡¯¿‘
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 09:53:44] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 09:53:44] "GET /static/signin.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 09:53:44] "GET /static/images/catlogo_1.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 09:53:44] "GET /static/dist/css/bootstrap.min.css HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-106-446
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 12:19:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 12:19:09] "[33mGET /script.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 12:19:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 12:19:09] "[36mGET /static/images/Baking-bread.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 12:19:09] "[36mGET /static/images/img-1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 12:19:09] "[36mGET /static/images/img-3.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 12:19:09] "[36mGET /static/images/img-2.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 12:19:09] "[36mGET /static/images/img-4.png HTTP/1.1[0m" 304 -
+INFO:app:¿ÂπŸ±∏¥œ ∆‰¿Ã¡ˆ ¡¯¿‘
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 12:19:11] "POST /cart HTTP/1.1" 200 -
+INFO:app:∑Œ±◊¿Œ ∆‰¿Ã¡ˆ ¡¯¿‘
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 12:19:24] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 12:19:24] "[36mGET /static/images/catlogo_1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 12:19:24] "[36mGET /static/signin.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 12:19:24] "[36mGET /static/dist/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:app:∑Œ±◊¿Œ ∆‰¿Ã¡ˆ ¡¯¿‘
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 12:19:28] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 12:19:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 12:19:28] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 12:19:28] "[36mGET /static/images/Baking-bread.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 12:19:28] "[33mGET /script.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 12:19:28] "[36mGET /static/images/img-2.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 12:19:28] "[36mGET /static/images/img-1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 12:19:28] "[36mGET /static/images/img-3.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 12:19:28] "[36mGET /static/images/img-4.png HTTP/1.1[0m" 304 -
+INFO:app:¿ÂπŸ±∏¥œ ∆‰¿Ã¡ˆ ¡¯¿‘
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 12:19:32] "POST /cart HTTP/1.1" 200 -
+INFO:app:¿ÂπŸ±∏¥œ ¡¯¿‘ ∆‰¿Ã¡ˆ
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 12:19:41] "GET /cart HTTP/1.1" 200 -
+INFO:app:¿ÂπŸ±∏¥œ ¡¯¿‘ ∆‰¿Ã¡ˆ
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 12:19:41] "GET /cart HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-106-446
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 13:48:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 13:48:38] "[33mGET /script.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 13:48:38] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 13:48:38] "[36mGET /static/images/img-1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 13:48:38] "[36mGET /static/images/Baking-bread.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 13:48:38] "[36mGET /static/images/img-3.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 13:48:38] "[36mGET /static/images/img-4.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 13:48:38] "[36mGET /static/images/img-2.png HTTP/1.1[0m" 304 -
+INFO:app:¿ÂπŸ±∏¥œ ∆‰¿Ã¡ˆ ¡¯¿‘
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 13:48:48] "POST /cart HTTP/1.1" 200 -
+INFO:app:¿ÂπŸ±∏¥œ ∆‰¿Ã¡ˆ ¡¯¿‘
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 13:48:51] "POST /cart HTTP/1.1" 200 -
+INFO:app:¿ÂπŸ±∏¥œ ¡¯¿‘ ∆‰¿Ã¡ˆ
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 13:48:54] "GET /cart HTTP/1.1" 200 -
+INFO:app:¿ÂπŸ±∏¥œ ¡¯¿‘ ∆‰¿Ã¡ˆ
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 13:48:54] "GET /cart HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-106-446

@@ -9,7 +9,7 @@ class UserLoginForm(FlaskForm):
     password = StringField("비밀번호", validators=[DataRequired()])
 
 class ProductForm(FlaskForm):
-    id = IntegerField("상품번호", validators=[DataRequired()])
+    product_id = IntegerField("상품번호", validators=[DataRequired()])
     product_name = StringField("상품명", validators=[DataRequired()])
     price = IntegerField("가격", validators=[DataRequired()]) #(5,2) 추가하려면 어떡해야하죠
     # number = IntegerField("가격", validators=[DataRequired()])

@@ -5,7 +5,7 @@ class User(db.Model):
     password = db.Column(db.String(200), nullable=False)
 
 class Product(db.Model):
-    id = db.Column(db.Integer, primary_key=True)
+    product_id = db.Column(db.Integer, primary_key=True)
     product_name = db.Column(db.String(100), nullable=False)
     price = db.Column(db.Numeric(5, 2), nullable=False)
     quantity = db.Column(db.Integer, nullable=False, default=1)

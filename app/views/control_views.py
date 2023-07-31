@@ -6,7 +6,7 @@ import functools
 from ..forms import UserLoginForm
 from ..forms import ProductForm
 import sqlite3
-import logging
+import logging, logstash
 import logging.handlers
 
 test = Blueprint('test', __name__, url_prefix='/')
@@ -18,7 +18,7 @@ logging.basicConfig(filename='test.log', level=logging.INFO)
 def send_log_to_logstash(record):
     host = '127.0.0.1'  # Logstash 서버의 호스트 주소
     port = 5000  # Logstash 서버의 수신 포트
-    handler = logging.handlers.SocketHandler(host, port)
+    handler = logging.handlers.HTTPHandler(host, port, method='POST')
     formatter = logging.Formatter('%(asctime)s [%(levelname)s] [%(name)s] %(message)s')
     handler.setFormatter(formatter)
     logger = logging.getLogger('flask_log')
